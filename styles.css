@@ -26,7 +26,7 @@ body{
     text-align: end;
     border-radius: 8px;
     height: 64px;
-    background-color:  rgb(230, 230, 230);
+    background-color:  rgb(241, 237, 237);
     color: rgb(48, 47, 47);
 }
 
@@ -73,7 +73,7 @@ body{
 
 
 .btn:hover{
-    color:   rgb(114, 113, 113);
+    color: rgb(114, 113, 113);
     background-color: rgb(245, 239, 239) ;
 }
 
@@ -84,9 +84,11 @@ body{
 
 p{
     text-align: center;
-    margin-top: 60px;
+    margin-top: 75px;
     color: rgb(214, 214, 214);
+    font-size: 16px;
 }
+
 a{
     text-decoration: none;
     color: rgb(110, 235, 193);
