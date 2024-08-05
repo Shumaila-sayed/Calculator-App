@@ -9,7 +9,7 @@ const equalsBtn = document.getElementById('equal');
 const decimalBtn = document.getElementById('deci');
 
 // Constants
-const MAX_DIGITS = 9;
+const MAX_DIGITS = 8;
 
 // State variables
 let firstOperand = "";
